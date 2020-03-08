@@ -1,4 +1,7 @@
-# my-app2
+# sample-app
+
+※下記qiita記事で使用しているサンプルコードです。
+https://qiita.com/kanary/items/7ba9aedc748c576d2c2b
 
 ## Environment setup
 
